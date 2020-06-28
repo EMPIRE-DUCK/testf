@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": ".",
+  "homepage": "https://testf.vercel.app/",
   "scripts": {
     "start": "cross-env HTTPS=true PORT=10888 react-scripts start",
     "build": "react-scripts build",
